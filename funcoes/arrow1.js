@@ -1,4 +1,5 @@
 // trabalhando com arrow function
+// varios tipos de funções arrow
 
 let msg = function(){
     console.log("seja bem vindo")
